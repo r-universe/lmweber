@@ -3,13 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "diffcyt"]
-	path = diffcyt
-	url = https://github.com/lmweber/diffcyt
-	shallow = true
-	registered = true
-[submodule "regsplice"]
-	path = regsplice
-	url = https://github.com/lmweber/regsplice
-	shallow = true
-	registered = true
