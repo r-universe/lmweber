@@ -3,6 +3,12 @@
     "package": "diffcyt"
   },
   {
+    "package": "ggspavis"
+  },
+  {
+    "package": "nnSVG"
+  },
+  {
     "package": "regsplice"
   }
 ]

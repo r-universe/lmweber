@@ -8,6 +8,16 @@
 	url = https://github.com/lmweber/diffcyt
 	shallow = true
 	registered = true
+[submodule "ggspavis"]
+	path = ggspavis
+	url = https://github.com/lmweber/ggspavis
+	shallow = true
+	registered = true
+[submodule "nnSVG"]
+	path = nnSVG
+	url = https://github.com/lmweber/nnsvg
+	shallow = true
+	registered = true
 [submodule "regsplice"]
 	path = regsplice
 	url = https://github.com/lmweber/regsplice
