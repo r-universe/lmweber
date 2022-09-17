@@ -18,8 +18,3 @@
 	url = https://github.com/lmweber/nnsvg
 	shallow = true
 	registered = true
-[submodule "regsplice"]
-	path = regsplice
-	url = https://github.com/lmweber/regsplice
-	shallow = true
-	registered = true
