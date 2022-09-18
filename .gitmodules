@@ -13,8 +13,3 @@
 	url = https://github.com/lmweber/ggspavis
 	shallow = true
 	registered = true
-[submodule "nnSVG"]
-	path = nnSVG
-	url = https://github.com/lmweber/nnsvg
-	shallow = true
-	registered = true
