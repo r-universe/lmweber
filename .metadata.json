@@ -4,5 +4,11 @@
   },
   {
     "package": "ggspavis"
+  },
+  {
+    "package": "nnSVG"
+  },
+  {
+    "package": "regsplice"
   }
 ]
