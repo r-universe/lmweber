@@ -1,5 +1,8 @@
 [
   {
+    "package": "diffcyt"
+  },
+  {
     "package": "ggspavis"
   },
   {
@@ -7,8 +10,5 @@
   },
   {
     "package": "regsplice"
-  },
-  {
-    "package": "diffcyt"
   }
 ]
