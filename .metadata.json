@@ -1,14 +1,14 @@
 [
   {
-    "package": "diffcyt"
-  },
-  {
     "package": "ggspavis"
   },
   {
-    "package": "nnSVG"
+    "package": "diffcyt"
   },
   {
     "package": "regsplice"
+  },
+  {
+    "package": "nnSVG"
   }
 ]
